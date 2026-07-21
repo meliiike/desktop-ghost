@@ -1,0 +1,8 @@
+PyQt6
+google-genai
+pypdf
+python-docx
+python-pptx
+pdf2docx
+reportlab
+pyobjc-framework-Cocoa; sys_platform == "darwin" #for mac ignore
